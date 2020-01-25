@@ -3,7 +3,6 @@
 %bcond_without	tests		# do not perform "make test"
 #
 %define		pdir	strictures
-%include	/usr/lib/rpm/macros.perl
 Summary:	Turn on strict and make all warnings fatal
 Summary(pl.UTF-8):	Włączenie trybu ścisłego i uczynienie wszystkich ostrzeżeń krytycznymi
 Name:		perl-strictures
